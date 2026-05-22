@@ -1,4 +1,5 @@
 # Awesome Swift
+Modified by [wildfirebill](https://github.com/wildfirebill)
  
 <!-- 
 
